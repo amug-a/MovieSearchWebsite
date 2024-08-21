@@ -1,6 +1,6 @@
 # MovieSearchWebsite
   update:
-    refactor is coming soon. I plan to make it a dedicated website to watch any movie ever know.
+    refactor is coming soon. I plan to make it a dedicated website to watch any movie ever known.
 
 ### This website is build using a replace content on the html.
 #### 1. Firstly, a single card is built on the html
